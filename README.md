@@ -79,8 +79,8 @@ By focusing on these areas, I aim to refine the current project and expand my sk
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkdin - [@](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Bhargava999](https://www.frontendmentor.io/profile/Bhargava999)
+- Linkdin - [@BhargavaManikanta](https://www.linkedin.com/in/bhargava-manikanta-mamidisetti-1022a3222/)
 
 ## Acknowledgments
 

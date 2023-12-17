@@ -46,12 +46,14 @@ img {
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 20px;
+  line-height: 1.5;
 }
 
 #content-body {
   font-size: 0.8rem;
   font-weight: 400;
   width: 90%;
+  line-height: 1.7;
 }
 
 .form-container {
