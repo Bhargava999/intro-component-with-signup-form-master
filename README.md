@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Bhargava999/intro-component-with-signup-form-master)
+- Live Site URL: [Add live site URL here](https://bhargava999.github.io/intro-component-with-signup-form-master)
 
 ## My process
 
